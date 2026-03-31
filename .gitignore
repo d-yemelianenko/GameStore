@@ -1,0 +1,10 @@
+.DS_Store
+/.srv/*
+!/.srv/custom.ini
+docker-compose.yml 
+/plugins/akismet/
+/plugins/hello.php
+/themes/twentytwentythree
+/themes/twentytwentyfour
+/themes/twentytwentyfive
+
